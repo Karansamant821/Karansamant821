@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karansamant821&label=Profile%20views&color=0e75b6&style=flat" alt="karansamant821" /> </p>
 
-- 🔭 I’m currently working on **Azure AI Fundamentals**
+- 🔭 I’m currently working on **Web Development**
 
 - 🌱 I’m currently learning **Python, HTML, CSS, JavaScript, DSA**
 
